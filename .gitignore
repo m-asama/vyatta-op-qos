@@ -13,3 +13,5 @@ debian/files
 debian/vyatta-op-qos
 debian/*.debhelper.log
 debian/*.substvars
+debian/.debhelper/
+debian/changelog.*
